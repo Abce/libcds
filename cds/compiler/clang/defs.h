@@ -58,7 +58,7 @@
     // See http://stackoverflow.com/questions/23791060/c-thread-local-storage-clang-503-0-40-mac-osx
     // http://stackoverflow.com/questions/28094794/why-does-apple-clang-disallow-c11-thread-local-when-official-clang-supports
     // clang 3.6 ok?..
-#   define CDS_CXX11_THREAD_LOCAL_SUPPORT
+//#   define CDS_CXX11_THREAD_LOCAL_SUPPORT
 #endif
 
 // Full SFINAE support
